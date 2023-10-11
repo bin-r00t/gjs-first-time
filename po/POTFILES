@@ -1,0 +1,5 @@
+data/org.gnome.Demo.desktop.in
+data/org.gnome.Demo.appdata.xml.in
+data/org.gnome.Demo.gschema.xml
+src/window.uisrc/main.js
+src/window.js

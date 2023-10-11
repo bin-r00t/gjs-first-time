@@ -1,0 +1,5 @@
+# ninja log v5
+2	10	1697031323	src/org.gnome.Demo.src.gresource	bb3ef57aa0af41b3
+2	15	1697031323	src/org.gnome.Demo.data.gresource	f05f0cae370f842d
+0	345	1697031323	data/org.gnome.Demo.desktop	8dab6286eeef5059
+1	352	1697031323	data/org.gnome.Demo.appdata.xml	93215a669f1ac2d3

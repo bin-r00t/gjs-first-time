@@ -1,0 +1,25 @@
+Build started at 2023-10-11T21:34:27.756951
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /home/liubin/Projects/demo
+Build dir: /home/liubin/Projects/demo/build
+Build type: native build
+Project name: demo
+Build machine cpu family: x86_64
+Build machine cpu: x86_64
+Program desktop-file-validate found: YES (/usr/bin/desktop-file-validate)
+Adding test "Validate desktop file".
+Program appstream-util found: YES (/usr/bin/appstream-util)
+Adding test "Validate appstream file".
+Program glib-compile-schemas found: YES (/usr/bin/glib-compile-schemas)
+Adding test "Validate schema file".
+Found pkg-config: /usr/bin/pkg-config (0.29.1)
+Determining dependency 'glib-2.0' with pkg-config executable '/usr/bin/pkg-config'
+Native dependency glib-2.0 found: YES 2.56.4
+Program gjs found: YES (/usr/bin/gjs)
+Configuring org.gnome.Demo using configuration
+Program build-aux/meson/postinstall.py found: YES (/home/liubin/Projects/demo/build-aux/meson/postinstall.py)
+Build targets in project: 7
+Found ninja-1.8.2 at /usr/bin/ninja

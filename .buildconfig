@@ -1,0 +1,9 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/liubin/.cache/gnome-builder/install/demo/host
+app-id=
+postbuild=
+prebuild=
